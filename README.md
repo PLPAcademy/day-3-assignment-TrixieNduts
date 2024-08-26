@@ -22,7 +22,7 @@ C) dart --verify
 D) dart --version
 
 
-5. What is the next step after downloading and extracting the Flutter SDK on Linux?
+3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 - Update your PATH
   
 A) Install Homebrew
