@@ -23,7 +23,7 @@ D) dart --version
 
 
 5. What is the next step after downloading and extracting the Flutter SDK on Linux?
-- Create a new Flutter project
+- Update your PATH
   
 A) Install Homebrew
 B) Update your PATH
@@ -32,7 +32,7 @@ D) Create a new Flutter project
 
 
 4. What command is used to run a newly created Flutter app?
-- flutter build
+- flutter run
   
 A) flutter start
 B) flutter build
@@ -67,7 +67,7 @@ C) By opening the Python installer again
 D) By checking the Programs and Features in Control Panel
 
 What command is used to install pip on macOS and Linux?
--python --install pip
+-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
 A) sudo install pip
 B) pip install python
@@ -75,7 +75,7 @@ C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 D) python --install pip
 
 What is the purpose of a virtual environment in Python?
--To install Python in a different directory
+-To separate project dependencies and avoid conflicts
 
 A) To keep your projects organized in one folder
 B) To install Python in a different directory
@@ -110,15 +110,17 @@ D) MySQL Workbench and MySQL Utilities
 
 What is the purpose of setting a root password during MySQL installation?
 -To secure your MySQL installation with a super-secret password
+
 A) To create a user account for your MySQL server
 B) To secure your MySQL installation with a super-secret password
 C) To activate MySQL Workbench
 D) To allow multiple users to access MySQL
 
 How do you begin managing your database after installing MySQL?
+-Launch MySQL Workbench and connect to your MySQL Server
 
 A) Start by installing additional plugins
-B) 
+B) Launch MySQL Workbench and connect to your MySQL Server
 C) Run mysqladmin start in the terminal
 D) Restart your computer to activate MySQL
 
